@@ -6,7 +6,7 @@ Store your notes, PDFs, and files securely on-chain, and ask a friendly built-in
 
 ---
 
-![ono preview](./screenshots/homepage.jpg)
+![ono preview](./screenshots/upload.jpg)
 
 ---
 
