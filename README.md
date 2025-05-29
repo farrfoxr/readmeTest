@@ -46,15 +46,9 @@ Perfect for quick understanding before exams or reviews.
 
 Keep your space tidy! A **“Clear Chat”** button lets you instantly delete all AI conversation history — so you can start fresh or avoid clutter.
 
-📸 _Preview Placeholder_  
-![Clear Chat Button](#)
-
 ### 🗑️ Delete Files from Storage
 
 Need to clean up? ono allows you to remove individual files from your storage safely, with one click.
-
-📸 _Delete File Feature Preview_  
-![Delete File Screenshot](#)
 
 ---
 
